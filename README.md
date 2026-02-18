@@ -23,3 +23,5 @@ You can use the following files to practise the processes above, and expand them
 * [QGISlocationsINDICES.csv](optionalfiles/QGISlocationsINDICES.csv) contains the lat/long locations of centre points in each UK local authority
 * [gbcities.csv](optionalfiles/gbcities.csv) contains the lat/long locations of centre points in Great Britain's cities
 * [Historic Flood Map](https://www.data.gov.uk/dataset/76292bec-7d8b-43e8-9c98-02734fd89c81/historic-flood-map1) contains other shape files that you can map - the file `DownloadHistoric_Flood_Map.shp.zip` is what you need to download
+* [Flood Risk Areas](https://www.data.gov.uk/dataset/42c31542-228d-439b-8dbe-e72135dae71c/flood-risk-areas) contains more flood-related shape files: download `DownloadFlood_Risk_Areas.shp.zip` (click *Show more* if you can't see it)
+* [Flood Map for Planning - Flood Zones](https://www.data.gov.uk/dataset/104434b0-5263-4c90-9b1e-e43b1d57c750/flood-map-for-planning-flood-zones1)
