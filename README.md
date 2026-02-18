@@ -14,3 +14,9 @@ You will need the following files:
 
 1. [01_make_a_map.md](https://github.com/paulbradshaw/QGIS_parameterisation/blob/main/01_make_a_map.md) describes how to create a basic map in QGIS
 2. [02_python.md](https://github.com/paulbradshaw/QGIS_parameterisation/blob/main/02_python.md) describes how to use a Python file to automate map image exports
+
+## Optional files
+
+You can use the following files to practise the processes above, and expand them:
+
+* [defences_classification.csv](https://github.com/paulbradshaw/QGIS_parameterisation/blob/main/optionalfiles/defences_classification.csv) - this contains extra data about the defences that allows you to classify them and therefore use separate symbology in mapping.
