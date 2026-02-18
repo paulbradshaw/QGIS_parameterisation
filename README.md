@@ -1,4 +1,4 @@
-# QGIS: Using Python for parameterisation
+# QGIS: Making multiple maps for multiple locations (parameterisation)
 
 This repo contains files and tipsheets for *parameterisation* in QGIS: that is, generating multiple maps based on a list of parameters (e.g. a list of lat-long locations)
 
