@@ -1,3 +1,16 @@
 # QGIS: Using Python for parameterisation
 
 This repo contains files and tipsheets for *parameterisation* in QGIS: that is, generating multiple maps based on a list of parameters (e.g. a list of lat-long locations)
+
+## Files
+
+You will need the following files:
+
+1. A shape file of some sort, to create a map with. The example used is `AIMS_Spatial_Flood_Defences_inc_standardised_attributes.shp.zip` from the Spatial Information section of [AIMS Spatial Flood Defences (inc. standardised attributes)](https://environment.data.gov.uk/dataset/8e5be50f-d465-11e4-ba9a-f0def148f590)
+2. A list of lat-longs for the places you want to generate map images for
+3. A Python file containing the code to automate multiple image exports
+
+## Walkthrough steps
+
+1. [01_make_a_map.md](https://github.com/paulbradshaw/QGIS_parameterisation/blob/main/01_make_a_map.md) describes how to create a basic map in QGIS
+2. [02_python.md](https://github.com/paulbradshaw/QGIS_parameterisation/blob/main/02_python.md) describes how to use a Python file to automate map image exports
